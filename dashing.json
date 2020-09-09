@@ -3,7 +3,7 @@
     "package": "kick",
     "index": "theweb.dk/KickAssembler/webhelp/content/apas04.html",
     "selectors": {
-        "table [summary='Directives'] tr td:first-child": "Command"
+        "table[summary='Directives'] tr td:first-child": "Command"
     },
     "ignore": [
         "ABOUT"
